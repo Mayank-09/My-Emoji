@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Princess+Sofia&display=swap');
+
+body{
+    font-family: 'Princess Sofia', cursive;
+    text-align: center;
+}
+
+.container{
+    color: white;
+    height: 80vh;
+    width: 100vw;
+    margin-top: 100px;
+}
+
+h1{
+    font-size: 4em;
+    text-align: center;
+    }
+
+hr{
+    width: 15%;
+   position: absolute;
+   top: 530px;
+   left: 550px;
+   
+   
+}
+
+input{
+   margin-top: 280px;
+    
+}
+
